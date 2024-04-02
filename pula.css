@@ -1,0 +1,4 @@
+main > div:nth-child(5) > div > h2,
+main > div:nth-child(5) > div > div:nth-child(2) {
+  display: none;
+}
