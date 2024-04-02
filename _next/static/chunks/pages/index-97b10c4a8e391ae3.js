@@ -351,13 +351,13 @@
                   children: "Buy wif us",
                 }),
                 (0, r.jsx)("a", {
-                  href: "https://twitter.com/meowthwifhatSOL",
+                  href: "https://twitter.com/MeowthWifHat_",
                   target: "_blank",
                   className: "uppercase",
                   children: "Support Chart wif us",
                 }),
                 (0, r.jsx)("a", {
-                  href: " https://t.me/meowthwifhatSOL",
+                  href: " https://t.me/SolMeowthWifHat",
                   target: "_blank",
                   className: "uppercase",
                   children: "Chat wif us",
