@@ -155,10 +155,10 @@
                   children: [
                     (0, r.jsx)("div", {
                       className: "text-xs sm:text-base",
-                      children: "71kEiFsbRyHrGBrd4ZqjS2o53GAURpRNeqsNx5tSV2XG",
+                      children: "comingsoon",
                     }),
                     (0, r.jsx)(l(), {
-                      text: "71kEiFsbRyHrGBrd4ZqjS2o53GAURpRNeqsNx5tSV2XG",
+                      text: "comingsoon",
                       children: (0, r.jsx)("button", {
                         children: (0, r.jsx)("img", {
                           src: "/copy.svg",
